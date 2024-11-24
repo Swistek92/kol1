@@ -17,7 +17,7 @@ export default function App() {
       {/* <h1>zad3 SymbolNewtona</h1> */}
       <SymbolNewtona />
       <hr />
-
+{/* ss */}
       <SelectionSort />
       <hr />
 
